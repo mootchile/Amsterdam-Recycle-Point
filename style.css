@@ -1,0 +1,174 @@
+nav ul {
+  justify-content: center;
+  display: flex;
+  list-style: none;
+  gap: 1em;
+  font-family: rubik;
+}
+
+.homenav {
+  color: #23fe8e;
+  font-weight: bold;
+}
+
+.hetideenav {
+  color: #23fe8e;
+  font-weight: bold;
+}
+
+.puntennav {
+  color: #23fe8e;
+  font-weight: bold;
+}
+
+.plan {
+  margin-bottom: 1em;
+  margin-top: -1em;
+  width: 30%;
+}
+
+nav a {
+  display: flex;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: "rubik", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+main {
+  flex-grow: 1;
+}
+
+header img {
+  width: 8%;
+  margin: 1em;
+}
+
+p {
+  margin: 1.5em;
+}
+
+.logo {
+  width: 3.1em;
+  height: 3em;
+  margin: 1em;
+}
+
+.earth {
+  width: 6em;
+  margin-left: 15em;
+}
+
+h4 {
+  text-align: left;
+  font-size: 0.85em;
+  margin-right: 6em;
+  margin-top: 1.2em;
+}
+
+.home {
+  width: 20em;
+}
+
+.lines {
+  width: 100%;
+}
+
+.copyright {
+  font-size: 0.5em;
+  color: #ffffff;
+  position: absolute;
+  margin-top: 11em;
+  left: 1em;
+}
+
+.rechts h2 {
+  text-align: left;
+  margin-left: 4em;
+  text-decoration: underline #23fe8e;
+}
+.rechts h3 {
+  text-align: left;
+  margin-left: 2em;
+  color: #23fe8e;
+}
+
+.rechts h4 {
+  text-align: left;
+  margin-left: 5em;
+}
+
+.links h2 {
+  text-align: right;
+  margin-right: 4em;
+  text-decoration: underline #23fe8e;
+}
+.links h3 {
+  text-align: right;
+  margin-right: 1em;
+  color: #23fe8e;
+}
+
+.links h4 {
+  text-align: right;
+  margin-right: 5em;
+}
+
+.pijlrechts {
+  width: 40%;
+  margin-left: 13em;
+  margin-top: -9em;
+}
+
+.pijllinks {
+  width: 40%;
+  margin-right: 13em;
+  margin-top: -9em;
+}
+
+footer section {
+  display: inline-block;
+  margin: 0 2em;
+  text-align: left;
+}
+
+footer h5 {
+  margin-bottom: 1em;
+  color: #ffffff;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+footer ul li img {
+  width: 100%;
+  margin: 0.1em;
+  margin-bottom: 1.5em;
+}
+
+footer {
+  background-color: #6d859b;
+  color: #ffffff;
+  width: 100%;
+  display: flex;
+}
+
+body {
+  background-color: #28333d;
+  color: #ffffff;
+}
